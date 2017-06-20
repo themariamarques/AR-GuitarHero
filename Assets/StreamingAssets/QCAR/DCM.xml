@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="gh-mark-01" size="5.000000 7.072581" />
+    <ImageTarget name="vol-pag-01" size="5.000000 6.129807" />
+    <ImageTarget name="rvau_it2" size="1.000000 1.412238" />
+  </Tracking>
+</QCARConfig>
